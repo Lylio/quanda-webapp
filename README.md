@@ -13,9 +13,10 @@ A question and answer React application backed with Node.js Express. Demo can be
 
 #### Launch Frontend
 1. Open a second terminal
-2. `npm install`
-3. `npm start`
-4. http://localhost:3000
+2. `cd quanda-frontend`
+3. `npm install`
+4. `npm start`
+5. Navigate to http://localhost:3000
 
 
 
