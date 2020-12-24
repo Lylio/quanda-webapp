@@ -4,8 +4,7 @@
 ## Built with React and Node.js
 
 ### Description
-A question and answer React application backed with Node.js Express. Demo can be found at (coming soon).
-
+A question and answer React application backed with Node.js Express.
 #### Launch Backend
 1. `cd quanda-backend`
 2. `npm install`
